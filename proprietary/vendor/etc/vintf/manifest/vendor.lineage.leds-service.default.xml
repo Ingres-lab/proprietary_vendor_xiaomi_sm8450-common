@@ -1,0 +1,10 @@
+<!--
+    Input:
+        device/xiaomi/ingres/leds/service/vendor.lineage.leds-service.default.xml
+-->
+<manifest version="9.0" type="device">
+    <hal format="aidl">
+        <name>vendor.lineage.leds</name>
+        <fqname>ILeds/default</fqname>
+    </hal>
+</manifest>
